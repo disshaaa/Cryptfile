@@ -32,8 +32,8 @@ Cryptfile is a Python-based command-line tool for **encrypting and decrypting fi
 2. Run the Script
 Edit and run your main script (main.py or equivalent):
   ```bash
-  python cryptfile.py
-  ```
+    python cryptfile.py
+```
 ---
 
 ## 🛠️ TODO (Optional Enhancements)
