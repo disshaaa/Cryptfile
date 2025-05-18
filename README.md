@@ -36,7 +36,8 @@ Edit and run your main script (main.py or equivalent):
   ```
 ---
 
-##🛠️ TODO (Optional Enhancements)
+## 🛠️ TODO (Optional Enhancements)
+
 - Add GUI with Tkinter or Gradio
 - Password-based access control
 - Logging and progress tracking
@@ -44,10 +45,12 @@ Edit and run your main script (main.py or equivalent):
 
 ---
 
-##Author
+## 👨‍💻 Author
+
 Disha Kumar Arora
 JK Lakshmipat University
 
 ---
-##📃 License
+## 📃 License
+
 MIT License. Free to use, distribute, and modify for educational purposes.
