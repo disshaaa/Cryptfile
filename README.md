@@ -55,3 +55,6 @@ JK Lakshmipat University
 ## 📃 License
 
 MIT License. Free to use, distribute, and modify for educational purposes.
+
+---
+⭐ Star this repo if you found it useful!
