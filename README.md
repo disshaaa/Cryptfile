@@ -46,12 +46,6 @@ Edit and run your main script (main.py or equivalent):
 
 ---
 
-## 👨‍💻 Author
-
-Disha Kumar Arora
-JK Lakshmipat University
-
----
 ## 📃 License
 
 MIT License. Free to use, distribute, and modify for educational purposes.
